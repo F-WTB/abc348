@@ -86,7 +86,7 @@ int main()
         q.pop();
         auto [x, y] = r;
 
-        cerr << x << ',' << y << ':' << u[x][y] << '\n';
+        // cerr << x << ',' << y << ':' << u[x][y] << '\n';
 
         if (r == t)
         {
